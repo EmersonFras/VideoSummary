@@ -10,7 +10,7 @@ When cloning this repository, you need to make sure to initialize and update the
 
 1. Clone the parent repository using the `--recurse-submodules` flag to clone it along with the submodules:
    ```bash
-   git clone --recurse-submodules https://github.com/your-username/parent-repo.git
+   git clone --recurse-submodules https://github.com/EmersonFras/VideoSummary.git
 
 
 # Project Description
