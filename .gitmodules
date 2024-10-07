@@ -1,0 +1,6 @@
+[submodule "REST-API-VideoSummary"]
+	path = REST-API-VideoSummary
+	url = git@github.com:EmersonFras/REST-API-VideoSummary.git
+[submodule "react-VideoSummary"]
+	path = react-VideoSummary
+	url = git@github.com:EmersonFras/react-VideoSummary.git
